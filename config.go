@@ -14,10 +14,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gopcua/opcua/errors"
-	"github.com/gopcua/opcua/ua"
-	"github.com/gopcua/opcua/uapolicy"
-	"github.com/gopcua/opcua/uasc"
+	"github.com/barisvelioglu/opcua/errors"
+	"github.com/barisvelioglu/opcua/ua"
+	"github.com/barisvelioglu/opcua/uapolicy"
+	"github.com/barisvelioglu/opcua/uasc"
 )
 
 // DefaultClientConfig returns the default configuration for a client

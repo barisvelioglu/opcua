@@ -1,9 +1,10 @@
 package opcua
 
 import (
-	"github.com/gopcua/opcua/ua"
-	"github.com/pascaldekloe/goe/verify"
 	"testing"
+
+	"github.com/barisvelioglu/opcua/ua"
+	"github.com/pascaldekloe/goe/verify"
 )
 
 func TestClient_Send_DoesNotPanicWhenDisconnected(t *testing.T) {

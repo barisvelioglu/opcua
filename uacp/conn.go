@@ -10,9 +10,9 @@ import (
 	"net"
 	"sync/atomic"
 
-	"github.com/gopcua/opcua/debug"
-	"github.com/gopcua/opcua/errors"
-	"github.com/gopcua/opcua/ua"
+	"github.com/barisvelioglu/opcua/debug"
+	"github.com/barisvelioglu/opcua/errors"
+	"github.com/barisvelioglu/opcua/ua"
 )
 
 const (

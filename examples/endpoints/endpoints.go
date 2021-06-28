@@ -10,8 +10,8 @@ import (
 	"flag"
 	"log"
 
-	"github.com/gopcua/opcua"
-	"github.com/gopcua/opcua/debug"
+	"github.com/barisvelioglu/opcua"
+	"github.com/barisvelioglu/opcua/debug"
 )
 
 func main() {

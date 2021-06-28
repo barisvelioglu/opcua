@@ -9,7 +9,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/gopcua/opcua/uacp"
+	"github.com/barisvelioglu/opcua/uacp"
 )
 
 func main() {
