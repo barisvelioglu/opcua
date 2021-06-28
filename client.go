@@ -292,6 +292,7 @@ func (c *Client) monitor(ctx context.Context) {
 				}
 			}
 
+			//baris velioglu
 			c.state.Store(Disconnected)
 
 			c.pauseSubscriptions()
